@@ -4,4 +4,4 @@
 2. necessary modules:  json, urllib.request, csv, ttkwidgets, tkinter, time, datetime, os, operator, matplotlib
 3. during the first run, script download API data from czech-craft.eu
 4. and will save the data to the same directory
-5. every start updates the data
+5. every starts updates the data of last month
